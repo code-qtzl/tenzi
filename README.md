@@ -12,10 +12,11 @@ Confetti celebration for winners!
 
 ## Tools Used
 
-React
-JavaScript
-Nano ID (for generating unique dice IDs)
-React Confetti (for victory celebrations)
+-   React
+-   JavaScript
+-   Nano ID (for generating unique dice IDs)
+-   React Confetti (for victory celebrations)
+-   Tailwind CSS (for styling)
 
 ## Controls
 
