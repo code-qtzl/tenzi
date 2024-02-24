@@ -29,7 +29,6 @@ Click the "Start Game" button to begin a new game.
 
     ```
     git clone https://github.com/your-username/tenzies.git
-
     ```
 
 2. Install dependencies:
