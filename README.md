@@ -28,7 +28,7 @@ Click the "Start Game" button to begin a new game.
 1. Clone this Repository:
 
     ```
-    git clone https://github.com/your-username/tenzies.git
+    git clone https://github.com/code-qtzl/tenzi.git
     ```
 
 2. Install dependencies:
