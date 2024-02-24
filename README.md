@@ -27,20 +27,22 @@ Click the "Start Game" button to begin a new game.
 
 1. Clone this Repository:
 
-    ```git clone https://github.com/your-username/tenzies.git
+    ```
+    git clone https://github.com/your-username/tenzies.git
 
     ```
 
 2. Install dependencies:
 
-    ````cd tenzi-game
-    ```npm install
-
-    ````
+    ```
+    cd tenzi-game
+    npm install
+    ```
 
 3. Run the app:
-    ```npm start
 
+    ```
+    npm start
     ```
 
 ## Contributing
