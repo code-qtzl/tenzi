@@ -4,7 +4,7 @@
 
 This is the Tenzies Project from Scrimba, part of the [React Course](https://scrimba.com/learn/learnreact) with Bob Ziroll. The challenged included a design file from figma, and its main purpose was to get more comfortable working with React components, useState and useEffect.
 
-However, I took it a step further and converting the game to use typescript, and utilizing the Tailwind CSS Framework.
+However, I took it a step further and converting the game to use Typescript, and utilizing the Tailwind CSS Framework.
 
 ## Features
 
