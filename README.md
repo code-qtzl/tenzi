@@ -1,8 +1,10 @@
-# Tenzies
+# Tenzies Game App
 
 ## Description
 
-Tenzies is a fun and fast-paced dice game built with React. The goal of the game is to roll ten dice until all of them display the same number. Players can freeze individual dice to keep them between rolls, strategizing to achieve Tenzies!
+This is the Tenzies Project from Scrimba, part of the [React Course](https://scrimba.com/learn/learnreact) with Bob Ziroll. The challenged included a design file from figma, and its main purpose was to get more comfortable working with React components, useState and useEffect.
+
+However, I took it a step further and converting the game to use typescript, and utilizing the Tailwind CSS Framework.
 
 ## Features
 
@@ -14,6 +16,7 @@ Confetti celebration for winners!
 
 -   React
 -   JavaScript
+-   Typescript
 -   Nano ID (for generating unique dice IDs)
 -   React Confetti (for victory celebrations)
 -   Tailwind CSS (for styling)
