@@ -1,5 +1,6 @@
 import React from 'react';
 
+// TODO: convert this component to an actual dice-face
 interface DiceProps {
 	id: number;
 	isHeld: boolean;
