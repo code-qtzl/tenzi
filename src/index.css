@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dot:nth-child(2) {
+	grid-area: b;
+}
+.dot:nth-child(3) {
+	grid-area: c;
+}
+.dot:nth-child(4) {
+	grid-area: d;
+}
+.dot:nth-child(5) {
+	grid-area: e;
+}
+.dot:nth-child(6) {
+	grid-area: f;
+}
+.die--1 .dot:last-child,
+.die--3 .dot:last-child,
+.die--5 .dot:last-child {
+	grid-area: g;
+}
