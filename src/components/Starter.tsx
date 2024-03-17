@@ -122,18 +122,12 @@ export default function Starter() {
 		setTimeOn(true);
 	};
 
-	const handleStop = () => {
-		clearInterval(runInterval);
-		setTimeOn(false);
-		setTimeStop(false);
-	};
-
 	return (
-		<div className='flex flex-col min-h-screen justify-center bg-gradient-to-r from-slate-800 to-slate-900 items-center p-5'>
+		<div className='flex flex-col min-h-screen justify-center bg-gradient-to-r from-slate-800 to-slate-900 items-center p-5 testing'>
 			{tenzies && <Confetti />}
 
 			<div className='relative flex flex-col justify-center text-center bg-neutral-100 p-5 rounded-lg content-center max-w-lg '>
-				<h1 className='text-indigo-800 text-4xl font-bold'>Tenzies</h1>
+				<h1 className='text-indigo-800 text-4xl font-bold'>Tenzie</h1>
 				<p className='text-lg font-light my-6'>
 					Roll until all dice are the same. Click each die to freeze
 					it at its current value between rolls.
@@ -155,7 +149,7 @@ export default function Starter() {
 						Start Game
 					</button>
 				</div>
-				<div className='grid grid-rows-2 grid-cols-5 gap-2 my-8'>
+				<div className='grid grid-rows-2 grid-cols-5 gap-4 my-8'>
 					{diceElem}
 				</div>
 				<button
