@@ -8,9 +8,7 @@ However, I took it a step further and converting the game to use Typescript, and
 
 ## Features
 
-Simple and engaging gameplay
-Ability to hold dice for strategic rolls
-Confetti celebration for winners!
+A fast-paced game that will challenge your strategic thinking and quick decision-making skills. Hold onto your dice for strategic rolls, but remember, the clock is ticking! The longer you hold onto your dice, the more you risk losing the race to be the quickest finisher.
 
 ## Tools Used
 
