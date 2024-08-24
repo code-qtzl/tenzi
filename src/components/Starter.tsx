@@ -132,7 +132,7 @@ export default function Starter() {
 					Roll until all dice are the same. Click each die to freeze
 					it at its current value between rolls.
 				</p>
-				<p className='scores'>
+				<p className={` ${timeStop ? 'text-lime-600 font-bold' : ''}`}>
 					Rolls: {numRolls} | Time: {displayTime(time)}
 				</p>
 				<div
