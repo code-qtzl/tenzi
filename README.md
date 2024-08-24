@@ -36,7 +36,7 @@ Click the "Start Game" button to begin a new game.
 2. Install dependencies:
 
     ```
-    cd tenzi-game
+    cd tenzi
     npm install
     ```
 
