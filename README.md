@@ -6,7 +6,7 @@ Checkout the the game here: https://code-qtzl.github.io/tenzi/public/
 
 This is the Tenzies Project from [Scrimba](https://v2.scrimba.com/home).
 
-Taking it a step further and converting the game to use Typescript, and uusing Tailwind CSS Framework.
+Taking it a step further and converting the game to use Typescript, and use Tailwind.
 
 ## Features
 
@@ -16,9 +16,8 @@ A fast-paced game that will challenge your strategic thinking and quick decision
 
 -   React
 -   Typescript
--   Nano ID (for generating unique dice IDs)
+-   Nano ID
 -   React Confetti (for victory celebrations)
--   Tailwind CSS (for styling)
 
 ## Controls
 
