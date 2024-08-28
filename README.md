@@ -1,10 +1,12 @@
 # Tenzies Game App
 
+Checkout the the game here: https://code-qtzl.github.io/tenzi/public/
+
 ## Description
 
-This is the Tenzies Project from Scrimba, part of the [React Course](https://scrimba.com/learn/learnreact) with Bob Ziroll. The challenged included a design file from figma, and its main purpose was to get more comfortable working with React components, useState and useEffect.
+This is the Tenzies Project from [Scrimba](https://v2.scrimba.com/home).
 
-However, I took it a step further and converting the game to use Typescript, and utilizing the Tailwind CSS Framework.
+Taking it a step further and converting the game to use Typescript, and uusing Tailwind CSS Framework.
 
 ## Features
 
@@ -13,7 +15,6 @@ A fast-paced game that will challenge your strategic thinking and quick decision
 ## Tools Used
 
 -   React
--   JavaScript
 -   Typescript
 -   Nano ID (for generating unique dice IDs)
 -   React Confetti (for victory celebrations)
