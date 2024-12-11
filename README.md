@@ -1,6 +1,6 @@
 # Tenzies Game App
 
-Checkout the the game here: https://code-qtzl.github.io/tenzi/public/
+Checkout the game here: https://code-qtzl.github.io/tenzi/public/
 
 ## Description
 
