@@ -4,25 +4,21 @@ Game Demo: https://code-qtzl.github.io/tenzi/public/
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nanoid-%2372EF36?style=for-the-badge&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nanoid-%2372EF36?style=flat&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat&logo=Tailwind-CSS&logoColor=white)
 
 ## Description
 
-This is the Tenzies Project from Scrimba. I took it a step further and converted to Typescript, and Tailwind for styling.
+What is [Tenzies](https://ilovetenzi.com/the-tale-of-tenzi/)?
 
-This is the Tenzies Project from [Scrimba](https://v2.scrimba.com/home).
+Enhanced the existing project from [Scrimba](https://v2.scrimba.com/home) by converting it to TypeScript and using Tailwind for styling.
 
-## Features
+## Tenzie Highlights
 
-A fast-paced game that will challenge your strategic thinking and quick decision-making skills. Hold onto your dice for strategic rolls, but remember, the clock is ticking! The longer you hold onto your dice, the more you risk losing the race to be the quickest finisher.
-
-## Tools Used
-
--   React
--   Typescript
--   Nano ID
--   React Confetti (for victory celebrations)
+-   A fast-paced game
+-   that will challenge your strategic thinking and quick decision-making skills.
+-   Hold onto your dice for strategic rolls, but remember, the clock is ticking!
+-   The longer you hold onto your dice, the more you risk losing the race to beat the time.
 
 ## Controls
 
