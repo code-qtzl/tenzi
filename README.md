@@ -15,10 +15,10 @@ I enhanced the existing project from [Scrimba](https://v2.scrimba.com/home) by c
 
 ## Tenzie Highlights
 
--   A fast-paced game
--   that will challenge your strategic thinking and quick decision-making skills.
--   Hold onto your dice for strategic rolls, but remember, the clock is ticking!
--   The longer you hold onto your dice, the more you risk losing the race to beat the time.
+-   A fast-paced game that challenges your strategic thinking and quick decision-making.
+-   Hold onto your dice for strategic rolls—timing is everything!
+-   The clock is ticking, so act fast to outpace your opponents.
+-   The longer you hold your dice, the higher the risk of losing the race again
 
 ## Controls
 
