@@ -1,12 +1,17 @@
 # Tenzies Game App
 
-Checkout the game here: https://code-qtzl.github.io/tenzi/public/
+Game Demo: https://code-qtzl.github.io/tenzi/public/
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nanoid-%2372EF36?style=for-the-badge&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 ## Description
 
-This is the Tenzies Project from [Scrimba](https://v2.scrimba.com/home).
+This is the Tenzies Project from Scrimba. I took it a step further and converted to Typescript, and Tailwind for styling.
 
-Taking it a step further and converting the game to use Typescript, and use Tailwind.
+This is the Tenzies Project from [Scrimba](https://v2.scrimba.com/home).
 
 ## Features
 
@@ -21,9 +26,9 @@ A fast-paced game that will challenge your strategic thinking and quick decision
 
 ## Controls
 
-Click on a die to hold/unhold it.
-Click the "Roll" button to roll all unheld dice.
-Click the "Start Game" button to begin a new game.
+-   Click on a die to hold/unhold it.
+-   Click the "Roll" button to roll all unheld dice.
+-   Click the "Start Game" button to begin a new game.
 
 ## Installation
 
@@ -31,12 +36,12 @@ Click the "Start Game" button to begin a new game.
 
     ```
     git clone https://github.com/code-qtzl/tenzi.git
+    cd tenzi
     ```
 
 2. Install dependencies:
 
     ```
-    cd tenzi
     npm install
     ```
 
@@ -46,9 +51,9 @@ Click the "Start Game" button to begin a new game.
     npm start
     ```
 
-## Contributing
+## Contact
 
-We welcome contributions to Tenzies! Please feel free to submit pull requests or open issues for any suggestions or bug fixes.
+Feel free to reach out for collaborations or questions!
 
 ## License
 
