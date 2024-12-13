@@ -9,9 +9,9 @@ Game Demo: https://code-qtzl.github.io/tenzi/public/
 
 ## Description
 
-What is [Tenzies](https://ilovetenzi.com/the-tale-of-tenzi/)?
+#### What is [Tenzies](https://ilovetenzi.com/the-tale-of-tenzi/)?
 
-Enhanced the existing project from [Scrimba](https://v2.scrimba.com/home) by converting it to TypeScript and using Tailwind for styling.
+I enhanced the existing project from [Scrimba](https://v2.scrimba.com/home) by converting it to TypeScript and using Tailwind for styling.
 
 ## Tenzie Highlights
 
