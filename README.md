@@ -1,4 +1,4 @@
-# Tenzies Game App
+# Tenzies Game
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nanoid-%2372EF36?style=flat&logoColor=white)
@@ -9,8 +9,6 @@ Game Demo: https://code-qtzl.github.io/tenzi/public/
 ## Description
 
 #### What is [Tenzies](https://ilovetenzi.com/the-tale-of-tenzi/)?
-
-I enhanced the existing project from [Scrimba](https://v2.scrimba.com/home) by converting it to TypeScript and using Tailwind for styling.
 
 ## Tenzie Highlights
 
